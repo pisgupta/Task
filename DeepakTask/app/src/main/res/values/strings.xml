@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DeepakTask</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="skill">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+    </string-array>
+    <string-array name="performance">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+        <item>P4</item>
+        <item>P5</item>
+        <item>P6</item>
+    </string-array>
+
+</resources>
